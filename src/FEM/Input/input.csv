@@ -1,0 +1,19 @@
+Initial Temperature (t0);22
+Simulation Time (tau);1200
+Simulation Step Time (delta tau);60
+Ambient Temperature (t inf);14
+Forced Convection Ratio (alpha);50
+Natural Convection Ratio (alpha);7
+Grid Hight (H);1
+Grid Width (L);1
+Count Of Vertical Nodes (nH);40
+Count Of Horizontal Nodes (nL);40
+Specific Heat ( c);510
+Conduction Ratio (k);55
+Density (rho);7800
+Gauss Seidel Iterations Number;1000
+Friction Ratio (my);0.09
+Acceleration Of The Earth (g);9.810
+Velocity (v);0
+Angle (beta);30
+PI;3.14159265
